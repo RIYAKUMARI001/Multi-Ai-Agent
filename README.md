@@ -2,6 +2,11 @@
 
 This is a smart travel planning system built with **LangChain** and **LangGraph**. It uses a team of specialized AI agents to help you plan the perfect 3-day trip without you having to do all the research yourself.
 
+<img width="1442" height="641" alt="image" src="https://github.com/user-attachments/assets/29fb6f2d-ad72-4d7a-a9a2-d12b01a6fbb4" />
+<img width="1475" height="446" alt="image" src="https://github.com/user-attachments/assets/de397ddf-cc7d-4a4f-83b8-8bb125863128" />
+<img width="1315" height="365" alt="image" src="https://github.com/user-attachments/assets/822c876c-02e7-4ab6-9946-aaf3e420d367" />
+<img width="1457" height="596" alt="image" src="https://github.com/user-attachments/assets/4beda06d-86c8-4c99-b0c0-f5037a8dac65" />
+
 ### How it works
 Instead of one big boring prompt, this system splits the work between 4 different "experts":
 *   **Travel Planner**: Focuses on making a solid day-by-day itinerary.
