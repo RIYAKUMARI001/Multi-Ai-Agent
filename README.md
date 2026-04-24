@@ -1,4 +1,4 @@
-# Multi-Agent Travel Assistant 🌍✈️
+# Multi-Agent Travel Assistant 
 
 This is a smart travel planning system built with **LangChain** and **LangGraph**. It uses a team of specialized AI agents to help you plan the perfect 3-day trip without you having to do all the research yourself.
 
@@ -28,4 +28,4 @@ python multi_agent_system.py
 ```
 It’ll ask you where you want to go and what you’re into (like food, history, etc.), and then it'll generate the full plan for you. 
 
-Happy travels! ✌️
+Happy travels! 
